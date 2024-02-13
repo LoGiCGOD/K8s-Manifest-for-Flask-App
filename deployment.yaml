@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: logicgod007/packages:7
+      - image: logicgod007/packages:1
         name: myapp
         resources: {}
 status: {}
